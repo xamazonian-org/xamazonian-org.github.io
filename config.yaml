@@ -1,6 +1,6 @@
 baseURL: https://xamazonian.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: XAmazonian
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -19,7 +19,7 @@ params:
   description:
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/xamazonians.svg
     link: /
   font:
     name: "Open Sans"
