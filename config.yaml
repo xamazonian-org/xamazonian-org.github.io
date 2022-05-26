@@ -19,7 +19,7 @@ params:
   description:
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/xamazonians.svg
+    image: logos/xamazonian-long.svg
     link: /
   font:
     name: "Open Sans"
