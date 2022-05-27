@@ -156,7 +156,7 @@ params:
   #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
   #     job: HR Manager
   #     img: 3
-  section5: true
+  # section5: true
   footer:
     # Logo (from /images/logos/___)
     logo: xamazonian-long-white.svg
@@ -167,10 +167,8 @@ params:
     - link: https://github.com/xamazonian-org/xamazonian-org.github.io
       # Icons are from Font Awesome
       icon: github
-    - link: https://dribbble.com/#
-      icon: slack
-    - link: https://bitbucket.org/#
-      icon: discount
+    - link: mailto:contact@xamazonian.org
+      icon: envelope
     # bulmalogo: true
     # quicklinks:
     #   column1:
