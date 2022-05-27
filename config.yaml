@@ -26,7 +26,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: We are amazonians
+    title: We are Amazonians
     # Hero subtitle (optional)
     subtitle: We are a group of Amazon alumni and current Amazonians who have come together to help each other advance our ambitions in the startup ecosystem. The xamazonian.org community consists of startup founders, early team members, angel investors, VCs, and mentors.
     # Button text
@@ -69,40 +69,40 @@ params:
     button: true
   - title: Contact
     url: /posts/contact/
-  sidebar:
-    # Logo (from /images/logos/___.svg)
-    logo: fresh-square
-    sections:
-    - title: User
-      icon: user
-      links:
-      - text: Profile
-        url: /
-      - text: Account
-        url: /
-      - text: Settings
-        url: /
-    - title: Messages
-      icon: envelope
-      links:
-      - text: Inbox
-        url: /
-      - text: Compose
-        url: /
-    - title: Images
-      icon: image
-      links:
-      - text: Library
-        url: /
-      - text: Upload
-        url: /
-    - title: Settings
-      icon: cog
-      links:
-      - text: User settings
-        url: /
-      - text: App settings
-        url: /
+  # sidebar:
+  #   # Logo (from /images/logos/___.svg)
+  #   logo: fresh-square
+  #   sections:
+  #   - title: User
+  #     icon: user
+  #     links:
+  #     - text: Profile
+  #       url: /
+  #     - text: Account
+  #       url: /
+  #     - text: Settings
+  #       url: /
+  #   - title: Messages
+  #     icon: envelope
+  #     links:
+  #     - text: Inbox
+  #       url: /
+  #     - text: Compose
+  #       url: /
+  #   - title: Images
+  #     icon: image
+  #     links:
+  #     - text: Library
+  #       url: /
+  #     - text: Upload
+  #       url: /
+  #   - title: Settings
+  #     icon: cog
+  #     links:
+  #     - text: User settings
+  #       url: /
+  #     - text: App settings
+  #       url: /
   section1:
     title: Great power comes
     subtitle: access our global community of members and events to help your startup succeed.
@@ -114,7 +114,7 @@ params:
       buttonText: Learn more
     - title: Entrepreneurs
       icon: laptop-cloud
-      text: Ex-amazonians as startup founders or early members
+      text: Ex-Amazonians as startup founders or early members
       url: /
       buttonText: Ask help
     - title: Investors
