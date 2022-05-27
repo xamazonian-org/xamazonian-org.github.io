@@ -49,24 +49,26 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About
+    url: /posts/about/
+  - title: Companies
     url: /
-  - title: Invest
+  - title: Entrepreneurs
     url: /
-  - title: Team
-    sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-  - title: Events
+  - title: Investors
     url: /
-  - title: Guidelines
+  # - title: Team
+  #   sublinks:
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  - title: Join us
     url: /
     button: true
   - title: Contact
-    url: /
+    url: /posts/contact/
   sidebar:
     # Logo (from /images/logos/___.svg)
     logo: fresh-square
