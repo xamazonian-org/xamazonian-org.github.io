@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="" alt="Material Bread logo" align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/105824682/170809615-ab77b356-d10f-47b5-b616-e46a2d86421e.png" alt="Material Bread logo" align="center">
 </p>
 
 <p align="center">
