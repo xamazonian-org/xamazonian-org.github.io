@@ -1,6 +1,6 @@
 baseURL: https://xamazonian.org/
 languageCode: en-us
-title: Xamazonian
+title: xamazonian
 theme: hugo-fresh 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -119,7 +119,7 @@ params:
       buttonText: Ask help
     - title: Investors
       icon: plug-cloud
-      text: Funding resources in Amazon ecosystem.
+      text: Funding resources in Amazoninan ecosystem.
       url: /
       buttonText: Raise capital
   # section2:
@@ -172,20 +172,12 @@ params:
     - link: mailto:contact@xamazonian.org
       icon: envelope
     # bulmalogo: true
-    # quicklinks:
-    #   column1:
-    #     title: "Product"
-    #     links:
-    #     - text: Discover features
-    #       link: /
-    #     - text: Why choose our product?
-    #       link: /
-    #     - text: Compare features
-    #       link: /
-    #     - text: Our roadmap
-    #       link: /
-    #     - text: AGB
-    #       link: /agb
+    quicklinks:
+      column1:
+        title: "Volunteer"
+        links:
+        - text: Contribue to the site
+          link: https://github.com/xamazonian-org/xamazonian-org.github.io
     #   column2:
     #     title: "Docs"
     #     links:
