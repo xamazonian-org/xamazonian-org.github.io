@@ -111,7 +111,7 @@ params:
       icon: mouse-globe
       text: Portfolio starups founded by Amazon alumni.
       url: /
-      buttonText: Learn more
+      buttonText: Find job
     - title: Entrepreneurs
       icon: laptop-cloud
       text: Ex-Amazonians as startup founders or early members
@@ -176,7 +176,7 @@ params:
       column1:
         title: "Volunteer"
         links:
-        - text: Contribue to the site
+        - text: Contribue contents
           link: https://github.com/xamazonian-org/xamazonian-org.github.io
     #   column2:
     #     title: "Docs"
