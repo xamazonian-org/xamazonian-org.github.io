@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Join us
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://forms.gle/yb2S25gye2fN8qHW9"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -65,7 +65,7 @@ params:
   #   - title: Dropdown item
   #     url: /
   - title: Join us
-    url: /
+    url: https://forms.gle/yb2S25gye2fN8qHW9
     button: true
   - title: Contact
     url: /posts/contact/
@@ -109,7 +109,7 @@ params:
     tiles:
     - title: Companies
       icon: mouse-globe
-      text: Starups founded by Amazon alumni.
+      text: Portfolio starups founded by Amazon alumni.
       url: /
       buttonText: Learn more
     - title: Entrepreneurs
