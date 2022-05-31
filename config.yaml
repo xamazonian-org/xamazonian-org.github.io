@@ -34,7 +34,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://forms.gle/yb2S25gye2fN8qHW9"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: homepage.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
     # - systek
@@ -176,7 +176,7 @@ params:
       column1:
         title: "Volunteer"
         links:
-        - text: Contribue contents
+        - text: Contribute contents
           link: https://github.com/xamazonian-org/xamazonian-org.github.io
     #   column2:
     #     title: "Docs"

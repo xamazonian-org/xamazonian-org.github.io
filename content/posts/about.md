@@ -12,4 +12,4 @@ Some of our events include regular meetups about startup growth tactics and brai
 
 ---
 
-The idea is inspired by [Xoogler.co](https://xoogler.co) ❤️.
+**xamazonian.org is not an Amazon affiliate. The idea is inspired by [Xoogler.co](https://xoogler.co) ❤️.**
