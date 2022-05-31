@@ -104,8 +104,8 @@ params:
   #     - text: App settings
   #       url: /
   section1:
-    title: Great power comes
-    subtitle: access our global community of members and events to help your startup succeed.
+    title: Dreams do come true!
+    subtitle: Everything you need to know about
     tiles:
     - title: Companies
       icon: mouse-globe
