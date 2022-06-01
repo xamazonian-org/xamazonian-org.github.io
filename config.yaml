@@ -51,7 +51,7 @@ params:
   - title: About
     url: /posts/about/
   - title: Companies
-    url: /
+    url: /posts/companies/
   - title: Entrepreneurs
     url: /
   - title: Investors
@@ -110,7 +110,7 @@ params:
     - title: Companies
       icon: mouse-globe
       text: Portfolio starups founded by Amazon alumni.
-      url: /
+      url: /posts/companies/
       buttonText: Find job
     - title: Entrepreneurs
       icon: laptop-cloud
