@@ -1,4 +1,4 @@
-{{ $url := "data/entrepreneurs.csv" }}
+{{ $url := "data/investors.csv" }}
 {{ $sep := "," }}
 {{ $data := getCSV $sep $url }}
 {{ $header := index ($data) 0}}
@@ -153,11 +153,16 @@
         <th>{{ index $header 0}}</th>
         <th>{{ index $header 2}}</th>
         <th>{{ index $header 3}}</th>
-        <th>{{ index $header 5}}</th>
+        <th>{{ index $header 4}}</th>
         <th>{{ index $header 6}}</th>
         <th>{{ index $header 7}}</th>
         <th>{{ index $header 8}}</th>
-        <th>{{ index $header 4}}</th>
+        <th>{{ index $header 9}}</th>
+        <th>{{ index $header 10}}</th>
+        <th>{{ index $header 11}}</th>
+        <th>{{ index $header 12}}</th>
+        <th>{{ index $header 13}}</th>
+        <th>{{ index $header 5}}</th>
       </tr>
     </thead>
     <tbody>
@@ -178,19 +183,34 @@
           <div class="cell-div">{{ index $r 3 }}</div>
         </td>
         <td>
-          <div class="cell-div"><a href="{{ index $r 5 }}">Twitter</a></div>
+          <div class="cell-div">{{ index $r 4 }}</div>
         </td>
         <td>
-          <div class="cell-div"><a href="{{ index $r 6 }}">LinkedIn</a></div>
+          <div class="cell-div"><a href="{{ index $r 6 }}">Twitter</a></div>
         </td>
         <td>
           <div class="cell-div"><a href="{{ index $r 7 }}">Facebook</a></div>
         </td>
         <td>
-          <div class="cell-div">{{ index $r 8 }}</div>
+          <div class="cell-div"><a href="{{ index $r 8 }}">LinkedIn</a></div>
         </td>
         <td>
-          <div style="white-space: pre-wrap;width:1000px;">{{ index $r 4 }}</div>
+          <div class="cell-div">{{ index $r 9 }}</div>
+        </td>
+        <td>
+          <div class="cell-div">{{ index $r 10 }}</div>
+        </td>
+        <td>
+          <div class="cell-div">{{ index $r 11 }}</div>
+        </td>
+        <td>
+          <div class="cell-div">{{ index $r 12 }}</div>
+        </td>
+        <td>
+          <div class="cell-div">{{ index $r 13 }}</div>
+        </td>
+        <td>
+          <div style="white-space: pre-wrap;width:1000px;">{{ index $r 5 }}</div>
         </td>
       </tr>
       {{ end }}

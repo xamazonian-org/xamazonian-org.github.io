@@ -55,7 +55,7 @@ params:
   - title: Entrepreneurs
     url: /posts/entrepreneurs/
   - title: Investors
-    url: /
+    url: /posts/investors/
   # - title: Team
   #   sublinks:
   #   - title: Dropdown item
@@ -120,7 +120,7 @@ params:
     - title: Investors
       icon: plug-cloud
       text: Funding resources in Amazoninan ecosystem.
-      url: /
+      url: /posts/investors/
       buttonText: Raise capital
   # section2:
   #   title: You're here because you want the best
