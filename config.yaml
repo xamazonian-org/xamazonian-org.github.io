@@ -53,7 +53,7 @@ params:
   - title: Companies
     url: /posts/companies/
   - title: Entrepreneurs
-    url: /
+    url: /posts/entrepreneurs/
   - title: Investors
     url: /
   # - title: Team
@@ -115,7 +115,7 @@ params:
     - title: Entrepreneurs
       icon: laptop-cloud
       text: Ex-Amazonians as startup founders or early members
-      url: /
+      url: /posts/entrepreneurs/
       buttonText: Ask help
     - title: Investors
       icon: plug-cloud
