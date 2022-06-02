@@ -59,7 +59,8 @@
 
   .cell-div {
     white-space: pre-wrap;
-    max-width: 300px;
+    max-width: 500px;
+    width: 100px;
   }
 
   /* Responsive */
@@ -183,7 +184,7 @@
           <div class="cell-div">{{ index $r 3 }}</div>
         </td>
         <td>
-          <div class="cell-div">{{ index $r 4 }}</div>
+          <div class="cell-div" style="white-space:pre-wrap;width:200px;max-width:300;">{{ index $r 4 }}</div>
         </td>
         <td>
           <div class="cell-div"><a href="{{ index $r 6 }}">Twitter</a></div>
@@ -195,7 +196,7 @@
           <div class="cell-div"><a href="{{ index $r 8 }}">LinkedIn</a></div>
         </td>
         <td>
-          <div class="cell-div">{{ index $r 9 }}</div>
+          <div class="cell-div" style="white-space:pre-wrap;width:200px;max-width:300;">{{ index $r 9 }}</div>
         </td>
         <td>
           <div class="cell-div">{{ index $r 10 }}</div>
@@ -210,7 +211,7 @@
           <div class="cell-div">{{ index $r 13 }}</div>
         </td>
         <td>
-          <div style="white-space: pre-wrap;width:1000px;">{{ index $r 5 }}</div>
+          <div style="white-space:nowrap;overflow: hidden;width:1000px;text-overflow: ellipsis;">{{ index $r 5 }}</div>
         </td>
       </tr>
       {{ end }}
