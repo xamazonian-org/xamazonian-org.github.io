@@ -166,6 +166,8 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
+    - link: https://www.linkedin.com/company/xamazonian/
+      icon: linkedin
     - link: https://github.com/xamazonian-org/xamazonian-org.github.io
       # Icons are from Font Awesome
       icon: github
